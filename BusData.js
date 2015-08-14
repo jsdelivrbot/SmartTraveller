@@ -1,506 +1,159 @@
 [
-    {
-        "text": "10:00 am",
-        "dir": "h",
-        "day": "w",
-        "com": "r,p,m"
-    },
-    {
-        "text": "10:20 am",
-        "dir": "h",
-        "day": "w",
-        "com": "r,m"
-    },
-    {
-        "text": "10:40 am",
-        "dir": "h",
-        "day": "w",
-        "com": "r,p"
-    },
-    {
-        "text": "11:00 am",
-        "dir": "h",
-        "day": "w",
-        "com": "p,m,r"
-    },
-    {
-        "text": "11:20 am",
-        "dir": "h",
-        "day": "w",
-        "com": "r"
-    },
-    {
-        "text": "11:40 am",
-        "dir": "h",
-        "day": "w",
-        "com": "r"
-    },
-    {
-        "text": "12:00 pm",
-        "dir": "h",
-        "day": "w",
-        "com": "r"
-    },
-    {
-        "text": "10:10 am",
-        "dir": "h",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "10:30 am",
-        "dir": "h",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "10:50 am",
-        "dir": "h",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "11:10 am",
-        "dir": "h",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "11:30 am",
-        "dir": "h",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "11:50 am",
-        "dir": "h",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "12:10 pm",
-        "dir": "h",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "10:05 am",
-        "dir": "h",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "10:25 am",
-        "dir": "h",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "10:45 am",
-        "dir": "h",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "11:05 am",
-        "dir": "h",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "11:25 am",
-        "dir": "h",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "11:45 am",
-        "dir": "h",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "12:05 pm",
-        "dir": "h",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "11:00 am",
-        "dir": "h",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "11:20 am",
-        "dir": "h",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "11:40 am",
-        "dir": "h",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "11:00 am",
-        "dir": "h",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "12:20 am",
-        "dir": "h",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "12:40 am",
-        "dir": "h",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "01:00 pm",
-        "dir": "h",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "11:10 am",
-        "dir": "h",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "11:30 am",
-        "dir": "h",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "11:50 am",
-        "dir": "h",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "12:10 am",
-        "dir": "h",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "12:30 am",
-        "dir": "h",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "12:50 am",
-        "dir": "h",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "01:10 pm",
-        "dir": "h",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "9:05 am",
-        "dir": "h",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "9:25 am",
-        "dir": "h",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "9:45 am",
-        "dir": "h",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "10:05 am",
-        "dir": "h",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "10:25 am",
-        "dir": "h",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "10:45 am",
-        "dir": "h",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "11:05 pm",
-        "dir": "h",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "05:00 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "r"
-    },
-    {
-        "text": "05:20 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "r"
-    },
-    {
-        "text": "05:40 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "r"
-    },
-    {
-        "text": "06:00 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "r"
-    },
-    {
-        "text": "06:20 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "r"
-    },
-    {
-        "text": "06:40 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "r"
-    },
-    {
-        "text": "07:00 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "r"
-    },
-    {
-        "text": "05:10 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "05:30 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "05:50 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "06:10 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "06:30 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "06:50 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "07:10 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "m"
-    },
-    {
-        "text": "04:05 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "04:25 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "04:45 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "05:05 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "05:25 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "05:45 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "06:05 pm",
-        "dir": "s",
-        "day": "w",
-        "com": "p"
-    },
-    {
-        "text": "04:10 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "04:30 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "04:50 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "05:10 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "05:30 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "05:50 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "06:10 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "r"
-    },
-    {
-        "text": "04:15 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "04:30 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "04:45 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "05:00 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "05:15 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "05:30 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "05:45 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "m"
-    },
-    {
-        "text": "04:05 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "04:25 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "04:45 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "05:05 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "05:25 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "05:45 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "p"
-    },
-    {
-        "text": "06:05 pm",
-        "dir": "s",
-        "day": "s",
-        "com": "p"
-    }
+{ "com": "m", "text": "05:00 AM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "05:25 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "05:40 AM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "05:50 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "06:00 AM", "day": "w", "dir": "h" },
+{ "com": "s,r", "text": "06:10 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "06:20 AM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "06:25 AM -- Via SC", "day": "w", "dir": "h" },
+{ "com": "s", "text": "06:30 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "06:40 AM", "day": "w", "dir": "h" },
+{ "com": "s,r", "text": "06:50 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "07:00 AM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "07:05 AM -- Via SC", "day": "w", "dir": "h" },
+{ "com": "s", "text": "07:10 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "07:20 AM", "day": "w", "dir": "h" },
+{ "com": "s,r", "text": "07:30 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "07:40 AM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "07:45 AM -- Via SC", "day": "w", "dir": "h" },
+{ "com": "s", "text": "07:50 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "08:00 AM", "day": "w", "dir": "h" },
+{ "com": "s,r", "text": "08:10 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "08:20 AM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "08:25 AM -- Via SC", "day": "w", "dir": "h" },
+{ "com": "s", "text": "08:30 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "08:40 AM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "08:50 AM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "09:05 AM -- Via SC", "day": "w", "dir": "h" },
+{ "com": "m", "text": "09:15 AM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "09:30 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "09:35 AM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "09:45 AM -- Via SC", "day": "w", "dir": "h" },
+{ "com": "s", "text": "08:55 AM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "09:25 AM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "09:45 AM", "day": "w", "dir": "h" },
+{ "com": "m,r", "text": "10:10 AM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "10:30 AM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "10:50 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "11:00 AM", "day": "w", "dir": "h" },
+{ "com": "s,r", "text": "11:30 AM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "11:45 AM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "12:05 PM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "12:30 PM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "12:40 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "01:05 PM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "01:45 PM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "01:50 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "03:15 PM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "03:40 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "04:20 PM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "04:35 PM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "04:40 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "05:00 PM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "05:15 PM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "05:20 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "05:40 PM", "day": "w", "dir": "h" },
+{ "com": "m,r", "text": "06:00 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "06:10 PM", "day": "w", "dir": "h" },
+{ "com": "m,r", "text": "06:20 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "06:30 PM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "06:40 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "06:50 PM", "day": "w", "dir": "h" },
+{ "com": "m,r", "text": "07:00 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "07:10 PM", "day": "w", "dir": "h" },
+{ "com": "m,r", "text": "07:20 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "07:30 PM", "day": "w", "dir": "h" },
+{ "com": "m,r", "text": "07:40 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "07:50 PM", "day": "w", "dir": "h" },
+{ "com": "m,r", "text": "08:00 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "08:10 PM", "day": "w", "dir": "h" },
+{ "com": "m,r", "text": "08:20 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "08:30 PM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "08:40 PM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "08:50 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "09:10 PM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "09:30 PM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "09:45 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "10:10 PM", "day": "w", "dir": "h" },
+{ "com": "r", "text": "10:30 PM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "10:50 PM", "day": "w", "dir": "h" },
+{ "com": "s", "text": "11:10 PM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "11:40 PM", "day": "w", "dir": "h" },
+{ "com": "m", "text": "05:20 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "05:40 AM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "05:55 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "06:05 AM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "06:15 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "06:25 AM", "day": "w", "dir": "s" },
+{ "com": "r", "text": "06:30 AM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "06:35 AM", "day": "w", "dir": "s" },
+{ "com": "s,r", "text": "06:50 AM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "06:55 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "07:10 AM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "07:20 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "07:30 AM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "07:40 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "07:50 AM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "08:00 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "08:10 AM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "08:20 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "08:30 AM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "08:40 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "08:50 AM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "09:00 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "09:15 AM", "day": "w", "dir": "s" },
+{ "com": "r", "text": "09:20 AM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "09:35 AM", "day": "w", "dir": "s" },
+{ "com": "r", "text": "09:40 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "09:45 AM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "09:55 AM", "day": "w", "dir": "s" },
+{ "com": "r", "text": "10:00 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "10:10 AM", "day": "w", "dir": "s" },
+{ "com": "r", "text": "10:20 AM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "10:30 AM", "day": "w", "dir": "s" },
+{ "com": "r", "text": "10:40 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "10:50 AM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "11:20 AM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "11:50 AM", "day": "w", "dir": "s" },
+{ "com": "r", "text": "12:00 PM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "12:15 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "12:35 PM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "12:55 PM", "day": "w", "dir": "s" },
+{ "com": "r", "text": "01:00 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "01:40 PM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "02:15 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "03:30 PM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "04:15 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "04:40 PM", "day": "w", "dir": "s" },
+{ "com": "r", "text": "04:50 PM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "05:00 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "05:20 PM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "05:40 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "06:00 PM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "06:20 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "06:30 PM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "06:40 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "06:50 PM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "07:00 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "07:10 PM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "07:20 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "07:30 PM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "07:40 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "07:50 PM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "08:00 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "08:10 PM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "08:20 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "08:30 PM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "08:40 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "08:50 PM", "day": "w", "dir": "s" },
+{ "com": "r", "text": "09:00 PM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "09:10 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "09:30 PM", "day": "w", "dir": "s" },
+{ "com": "r", "text": "10:00 PM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "10:10 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "10:30 PM", "day": "w", "dir": "s" },
+{ "com": "m,r", "text": "11:10 PM", "day": "w", "dir": "s" },
+{ "com": "s", "text": "11:40 PM", "day": "w", "dir": "s" },
+{ "com": "m", "text": "12:10 AM", "day": "w", "dir": "s" }
 ]
