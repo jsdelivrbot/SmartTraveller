@@ -1,0 +1,241 @@
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>SmartTech Solutions</title>
+		<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="js/jquery.min.js"></script>
+		 <!-- Custom Theme files -->
+		<link href="css/style.css" rel='stylesheet' type='text/css' />
+   		 <!-- Custom Theme files -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!---- animated-css ---->
+		<link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
+		<script type="text/javascript" src="js/jquery.corner.js"></script> 
+		<script src="js/wow.min.js"></script>
+		<script>
+		 new WOW().init();
+		</script>
+		<!---- animated-css ---->
+		<!---- start-smoth-scrolling---->
+		<script type="text/javascript" src="js/move-top.js"></script>
+		<script type="text/javascript" src="js/easing.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+				});
+			});
+		</script>
+		 <!---- start-smoth-scrolling---->
+		<!----webfonts--->
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
+		<!---//webfonts--->
+		<!----start-top-nav-script---->
+		<script>
+			$(function() {
+				var pull 		= $('#pull');
+					menu 		= $('nav ul');
+					menuHeight	= menu.height();
+				$(pull).on('click', function(e) {
+					e.preventDefault();
+					menu.slideToggle();
+				});
+				$(window).resize(function(){
+	        		var w = $(window).width();
+	        		if(w > 320 && menu.is(':hidden')) {
+	        			menu.removeAttr('style');
+	        		}
+	    		});
+			});
+		</script>
+		<!----//End-top-nav-script---->
+	</head>
+	<body>
+		<div class="bg">
+		<!----- start-header---->
+		<div class="container">
+			<div id="home" class="header wow bounceInDown" data-wow-delay="0.4s">
+					<div class="top-header">
+						<div class="logo">
+							<a href="#">SmartTech</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!----- //End-header---->
+			<!---- banner-info ---->
+			<div class="banner-info">
+				<div class="container">
+					<h1 class="wow fadeIn" data-wow-delay="0.5s"><span>we provide</span><br /><label>Smart Solutions</label></h1>
+				<div class="top-banner-grids wow bounceInUp" data-wow-delay="0.4s">
+					<div class="banner-grid text-center">
+						<span class="top-icon1"> </span>
+						<h3>analytics</h3>
+					</div>
+					<div class="banner-grid banner-grid-active text-center">
+						<span class="top-icon2"> </span>
+						<h3>strategy</h3>
+					</div>
+					<div class="banner-grid text-center">
+						<span class="top-icon3"> </span>
+						<h3>branding</h3>
+					</div>
+					<div class="banner-grid text-center">
+						<span class="top-icon4"> </span>
+						<h3>promotion</h3>
+					</div>
+					<div class="banner-grid text-center">
+						<span class="top-icon5"> </span>
+						<h3>sales</h3>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				</div>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+			<!---- banner-info ---->
+			<!---- top-grids ---->
+			<div class="top-grids text-center">
+				<div class="container">
+					<div class="col-md-6 wow bounceIn" data-wow-delay="0.4s">
+						<div class="top-grid">
+							<span class="icon1"> </span>
+							<h3><a href="#">right strategy</a></h3>
+							<label> </label>
+							<p>We understand that every business is unique, hence our solutions are also customized according to your needs</p>
+						</div>
+					</div>
+					<div class="col-md-6 wow bounceIn" data-wow-delay="0.4s">
+						<div class="top-grid">
+							<span class="icon2"> </span>
+							<h3><a href="#">Industry Experience</a></h3>
+							<label> </label>
+							<p>We have a team with rich experience in software solutions. The team is working in this industry for past 13 years</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!---- top-grids ---->
+			<!---- about ---->
+        
+			</div>
+			
+			<div id="process" class="process">
+				<div class="head-section">
+					<div class="container">
+						<h3><span>Our</span><label>process .</label></h3>
+					</div>
+				</div>
+				<div class="container">
+					<div class="process-grids text-center wow bounce" data-wow-delay="0.4s">
+						<div class="col-md-3 process-grid process-grid1 wow bounceInUp" data-wow-delay="0.4s">
+							<span class="p-icon1"> </span>
+							<h4><a href="#">meeting</a></h4>
+						</div>
+						<div class="col-md-3 process-grid process-grid2 wow bounceInDown" data-wow-delay="0.4s">
+							<span class="p-icon2"> </span>
+							<h4><a href="#">analysis</a></h4>
+						</div>
+						<div class="col-md-3 process-grid process-grid3 wow bounceInUp" data-wow-delay="0.4s">
+							<span class="p-icon3"> </span>
+							<h4><a href="#">making</a></h4>
+						</div>
+						<div class="col-md-3 process-grid process-grid4 wow bounceInDown" data-wow-delay="0.4s">
+							<span class="p-icon4"> </span>
+							<h4><a href="#">success</a></h4>
+						</div>
+						<div class="clearfix"> </div>
+					</div>
+				</div>
+			</div>
+			<div class="blog">
+				<div class="head-section">
+					<div class="container">
+						<h3><span>Our</span><label>Products .</label></h3>
+					</div>
+				</div>
+				<!---- blog-grids ---->
+				<div class="blog-grids">
+					<div class="container"> 
+					<div class="blog-grids-left">
+						<!---- ---->
+						<div class="blog-grid-left-big wow bounceIn" data-wow-delay="0.4s">
+							<div class="blog-grid-left-big-info">
+								<div class="blog-art-info">
+                                    <h3>Leo Shipping</h3>
+									<p>This application is designed to help Shipping companies to track their Vessels & Manpower updates. The application checks & periodically send mails to senior management about expiration information ahead of time.</p>
+								</div>
+							</div>
+							<div class="blog-grid-left-big-pic">
+								<div class="blog-art-pic">
+                                    <img src="images/leo.png" title="Leo Shipping" />
+								</div>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
+                        <br />
+                        <div class="blog-grid-left-big wow bounceIn" data-wow-delay="0.4s">
+                            <div class="blog-grid-left-big-info">
+                                <div class="blog-art-info">
+                                    <h3>School Management</h3>
+                                    <p>This application is designed to help educational institute to manage their workload. It has various modules such as Staff Management, Students Management, Attendance Management alongwith other necessary modules to manage educational institute of any size.</p>
+                                    <div align="center"><a class="catch-me wow shake" style="color:blue;" data-wow-delay="0.3s" href="http://smarttech.somee.com/eschool">View</a></div>  
+                                </div>
+                                
+                            </div>
+                            <div class="blog-grid-left-big-pic">
+                                <div class="blog-art-pic">
+                                    <img src="images/eschool.png" title="eSchool" />
+                                </div>
+                            </div>
+                            <div class="clearfix"> </div>
+                        </div>
+					</div>                        
+					<div class="blog-grids-right wow bounceIn" data-wow-delay="0.4s">
+						<div class="blog-grid-left blog-grid-right">
+								<div class="blog-art-pic">
+                                    <img src="images/smarttraveller.png" title="Smart Traveller"  height="340px;"/>
+								</div>
+								<div class="blog-art-info">
+									<h3>Smart Traveller</h3>
+									<p>This android mobile application is designed to help regular traveller to help plan his trips & keep him updated with lastest bus schedule.</p>
+                                    <div align="center"><a class="catch-me wow shake" style="color:blue;" data-wow-delay="0.3s" href="app/SmartTraveller.apk" download target="_blank">Download</a></div>
+								</div>
+							</div>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				<!---- blog-grids ---->
+				</div>
+			</div>
+        <div id="about" class="about">
+            <div class="about-grids">
+                <div class="col-md-4 about-grid about-grid1 wow fadeInLeft" data-wow-delay="0.4s">
+                    <div class="about-grid-info">
+                        <h4 style="margin-top: 0px;"><a href="#">SmartTech Solutions Pvt. Ltd.</a></h4>
+                        <div style="color:white;">We believe that technology, if used properly, will help business grow. We provide consulting, solutioning & implementation at your doorstep. We have a team of dedicated people joined together to solve real business problems.</div>
+                    </div>
+                </div>
+
+                <div class="text-center wow fadeInLeft" data-wow-delay="0.3s">
+                    <h4><span>SmartTech</span>&nbsp; software solutions</h4>
+                    <p><span class="map-icon1"> </span>Kalyan, Mumbai</p>
+                    <p><span class="map-icon2">email us at : </span>ProductSales.SmartTech@gmail.com</p>
+                    <p><span class="map-icon3">call us on :  </span>89-765-21120</p>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+            <!--- /about-grids ---->
+        </div>
+	</body>
+</html>
+
